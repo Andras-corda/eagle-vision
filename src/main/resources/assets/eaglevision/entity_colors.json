@@ -1,0 +1,116 @@
+{
+  "hostile": {
+    "color": {
+      "red": 1.0,
+      "green": 0.0,
+      "blue": 0.0
+    },
+    "entities": [
+      "minecraft:zombie",
+      "minecraft:skeleton",
+      "minecraft:creeper",
+      "minecraft:spider",
+      "minecraft:cave_spider",
+      "minecraft:enderman",
+      "minecraft:blaze",
+      "minecraft:ghast",
+      "minecraft:wither_skeleton",
+      "minecraft:witch",
+      "minecraft:pillager",
+      "minecraft:vindicator",
+      "minecraft:evoker",
+      "minecraft:ravager",
+      "minecraft:vex",
+      "minecraft:hoglin",
+      "minecraft:zoglin",
+      "minecraft:phantom",
+      "minecraft:drowned",
+      "minecraft:husk",
+      "minecraft:stray",
+      "minecraft:guardian",
+      "minecraft:elder_guardian",
+      "minecraft:shulker",
+      "minecraft:silverfish",
+      "minecraft:endermite",
+      "minecraft:piglin_brute",
+      "minecraft:wither",
+      "minecraft:ender_dragon",
+      "minecraft:warden",
+      "minecraft:piglin",
+      "minecraft:zombified_piglin",
+      "minecraft:magma_cube",
+      "minecraft:slime"
+    ],
+    "tags": [
+      "forge:hostile_mobs",
+      "minecraft:raiders"
+    ]
+  },
+  "ally": {
+    "color": {
+      "red": 0.0,
+      "green": 0.5,
+      "blue": 1.0
+    },
+    "entities": [
+      "minecraft:parrot",
+      "minecraft:horse",
+      "minecraft:donkey",
+      "minecraft:mule",
+      "minecraft:llama"
+    ],
+    "tags": []
+  },
+  "player": {
+    "color": {
+      "red": 0.0,
+      "green": 0.5,
+      "blue": 1.0
+    }
+  },
+  "green": {
+    "color": {
+      "red": 0.0,
+      "green": 1.0,
+      "blue": 0.0
+    },
+    "entities": [],
+    "tags": []
+  },
+  "purple": {
+    "color": {
+      "red": 0.6,
+      "green": 0.0,
+      "blue": 0.8
+    },
+    "entities": [],
+    "tags": []
+  },
+  "orange": {
+    "color": {
+      "red": 1.0,
+      "green": 0.5,
+      "blue": 0.0
+    },
+    "entities": [],
+    "tags": []
+  },
+  "gray": {
+    "color": {
+      "red": 0.7,
+      "green": 0.7,
+      "blue": 0.7
+    },
+    "entities": [],
+    "tags": []
+  },
+  "yellow": {
+    "color": {
+      "red": 1.0,
+      "green": 0.85,
+      "blue": 0.0
+    },
+    "entities": [],
+    "tags": []
+  }
+}
