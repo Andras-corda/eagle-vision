@@ -2,64 +2,57 @@
 
 ## Project Overview
 
-Eagle Vision is a development project designed to provide a functional tool/application focused on [INSERT CLEAR PURPOSE HERE: e.g. data visualization, game-related system, utility tool, etc.].
+Eagle Vision is a Minecraft mod inspired by the "Eagle Vision" mechanic from the Assassin’s Creed franchise.
 
-The goal of this project is to demonstrate practical programming skills, project structuring, and the ability to build a working software solution.
+The mod allows players to experience a special enhanced vision mode inside Minecraft, similar to the ability used in Assassin’s Creed games, highlighting entities or providing an improved perception of the environment depending on the implemented features.
+
+The objective of this project is to combine game modding with gameplay-inspired mechanics from other game universes.
 
 ## Features
 
-- Core functionality implementation
-- Modular and structured code organization
-- User-oriented interface or system logic
-- Extendable architecture for future improvements
+- Activation of an Eagle Vision mode inspired by Assassin’s Creed
+- Enhanced player perception of the environment
+- Gameplay mechanic integrated into Minecraft
+- Custom mod behavior depending on game events or player input
 
 ## Technologies Used
 
-- JavaScript (or update depending on your project)
-- HTML / CSS (if applicable)
-- [Add any libraries, frameworks, or tools you used]
+- Java
+- Minecraft Forge / Fabric (specify the one you used)
+- Minecraft Modding API
+- Gradle (if applicable)
 
-## Project Structure
+## How It Works
 
-The project is organized as follows:
+The mod introduces a custom system that modifies player perception when Eagle Vision is activated. This may include changes to rendering, entity visibility, or visual effects depending on the implementation.
 
-- `/src` - Main source code
-- `/assets` - Resources and media files
-- `/modules` - Reusable components or logic blocks
-- `/index` - Entry point of the application
+The feature is triggered by a specific input or condition defined in the mod.
 
-(Adjust this section to match your actual structure)
+## Installation
 
-## Installation and Usage
+1. Install Minecraft with Forge or Fabric (depending on your setup)
+2. Download or build the mod jar file
+3. Place the file into the `mods` folder of your Minecraft directory
+4. Launch the game with the correct mod loader profile
 
-To run this project locally:
+## Project Purpose
 
-1. Clone the repository:
-`git clone https://github.com/Andras-corda/eagle-vision.git`
+This project was created to practice:
 
-2. Navigate to the project folder:
-`cd eagle-vision`
+- Minecraft mod development
+- Java programming
+- Game mechanics design
+- Integration of external game-inspired features
 
-
-3. Open the project in your development environment or run it depending on the setup.
-
-If applicable, include any build steps or dependencies installation here.
-
-## Purpose and Learning Objectives
-
-This project was created to improve skills in software development, including:
-
-- Code organization and modular design
-- Logical problem solving
-- Building functional applications
-- Managing a complete project lifecycle
+It also explores how mechanics from well-known games can be adapted into sandbox environments like Minecraft.
 
 ## Future Improvements
 
-- Add new features and functionalities
-- Improve user interface and experience
-- Optimize performance and code structure
-- Expand modularity for scalability
+- Add customizable vision effects
+- Improve visual rendering and performance
+- Add configuration settings for players
+- Expand compatibility with other mods
+- Improve animation and transitions for Eagle Vision activation
 
 ## Author
 
@@ -69,4 +62,4 @@ Game Development student
 ## Links
 
 - GitHub: https://github.com/Andras-corda
-- LinkedIn: [ADD YOUR LINK HERE]
+- LinkedIn: https://www.linkedin.com/in/andras-corda-7650393a1/
